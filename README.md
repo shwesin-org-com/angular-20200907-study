@@ -497,7 +497,7 @@ My study nodes in angular 9
           -ng g service service/routeGuard
           -ng g service service/data/welcomeData
           -ng g service service/data/todoData
-          - ng g service service/HttpIntercepter
+         
 
 
 
